@@ -300,12 +300,6 @@ h1.section-h1 {
   color: #ffffff; /* Color de texto */  
 }
 
-
-
-.last-section {
-  margin-bottom: 200px; /* Ajusta este valor según sea necesario */
-}
-
 .date-list li {
   display: flex;
   justify-content: space-between;
