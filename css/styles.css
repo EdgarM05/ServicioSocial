@@ -67,7 +67,20 @@
   margin-top: 100px; /* Ajusta este valor según sea necesario */
 }
 
+.logo-con-fondo {
+  background-color: white; /* Fondo blanco */
+  border-radius: 50%; /* Hace que el fondo sea circular */
+  display: inline-block; /* Asegura que el fondo circular se ajuste a la imagen */
+}
 
+.cartel_GAP {
+  width: 500px; /* Ajusta el tamaño de la imagen */
+  height: auto; /* Mantiene la proporción de la imagen */
+  border: 3px solid #000; /* Añade un borde negro */
+  border-radius: 10px; /* Redondea las esquinas */
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.5); /* Añade una sombra */
+  margin: 100px 0; /* Añade margen superior e inferior */
+}
 
 :root {
   --bs-blue: #0d6efd;
