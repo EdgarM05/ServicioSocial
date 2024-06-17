@@ -55,7 +55,7 @@
 }
 .map-container {
   width: 70%; /* Ajusta el ancho del contenedor del mapa */
-  height: 600px; /* Ajusta la altura del contenedor del mapa */
+  height:500px; /* Ajusta la altura del contenedor del mapa */
   margin: 0 auto; /* Centra el contenedor del mapa */
 }
 .map-container iframe {
