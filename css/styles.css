@@ -89,6 +89,10 @@
   margin: 100px 0; /* Añade margen superior e inferior */
 }
 
+.espacio_exhibicion {
+  margin-bottom: 150px;
+}
+
 :root {
   --bs-blue: #0d6efd;
   --bs-indigo: #6610f2;
